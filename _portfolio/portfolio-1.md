@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Identifying key nodes in Complex Networks with Deep Reinforcement Learning"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
